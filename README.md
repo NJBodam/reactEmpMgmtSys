@@ -1,3 +1,9 @@
+# React/Springboot Employee Management App
+
+This is the view layer of my Springboot employee management app (https://github.com/NJBodam/springReactEmpAPp.git).
+It consumes the API endpoints and renders the data accordingly.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
